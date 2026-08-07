@@ -1,6 +1,6 @@
 {
-    "name": "v2_tentativa",
-    "short_name": "v2_tentativa",
+    "name": "v1_tentativa",
+    "short_name": "v1_tentativa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
